@@ -1,0 +1,20 @@
+Qual o jogador de futebol com mais bolas de ouro ? ; Messi
+Qual jogador de futebol tem mais gols oficiais (primeiro nome) ? ; Cristiano
+Qual a equipe de Formula 1 tem mais titulos ? ; Ferrari
+Qual piloto brasileiro de Formula 1 e mais famoso ? ; Senna
+Qual time ganhou a Libertadores do ano 2021 ? ; Palmeiras
+Qual time foi campeao na Champions League 2020/2021 ? ; Chelsea
+Qual time ganhou a temporada 2020/2021 da NFL ? ; Tampa Bay Bucaneers
+Quem e o jogador de futebol americano com mais titulos (primeiro nome) ? ; Tom
+Quem foi o maior cestinha da historia da NBA (primeiro nome) ? ; Michael
+Qual selecao ganhou a Copa do Mundo de 2018 ; França
+Qual selecao ganhou a Copa America 2020 ? ; Argentina
+Quem e o piloto da Formula 1 com mais titulos ? (ainda em atuação) (primeiro nome) ; Lewis
+Qual time foi campeao da NBA na temportada 2020/2021 ? ; Milwaukee Bucks
+Qual time foi campeao da Copa do Brasil em 2008 ? ; Sport
+Qual time foi campeao do Campeonato Brasileiro de futebol em 1987 ? ; Sport
+Qual time brasileiro é o maior campeao da Libertadores ? ; São Paulo
+Quantos campeonatos de Formula 1 ganhou Ayrton Senna ? ; 3
+Quem e o piloto de Formula 1 com mais vitorias (primeiro nome) ? ; Lewis
+Quem foi o piloto mais novo a ganhar um campeonato de Formula 1 (primeiro nome) ? ; Sebastian
+Qual o maior time do Nordeste ? ; Sport
