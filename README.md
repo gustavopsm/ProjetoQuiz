@@ -1,5 +1,5 @@
 # ProjetoQuiz
-O projeto 1 consiste num quiz com 20 perguntas e respostas. Durante uma partida serão selecionadas 5 perguntas, o jogo pode ser jogado por até cinco participantes, os jogadores do quiz devem participar da mesma máquina. Para criação do quiz utilizamos o protocolo UDP e a programação de sockets para o transporte de dados. Foi usada a arquitetura ‘Cliente-Servidor’ para comunicação dos jogadores com o servidor.
+O projeto consiste num quiz com 20 perguntas e respostas. Durante uma partida serão selecionadas 5 perguntas, o jogo pode ser jogado por até cinco participantes, os jogadores do quiz devem participar da mesma máquina. Para criação do quiz utilizamos o protocolo UDP e a programação de sockets para o transporte de dados. Foi usada a arquitetura ‘Cliente-Servidor’ para comunicação dos jogadores com o servidor.
 como usar:
 Para rodar o código do quiz é necessário seguir os seguintes passos:
 
